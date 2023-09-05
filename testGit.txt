@@ -1,6 +1,0 @@
-adu baca 
-test Git
-
-third commit edit something in testGit.txt file
-
-third commit edit something in testGit.txt file, AGAIN!
